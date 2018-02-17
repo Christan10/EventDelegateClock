@@ -10,6 +10,7 @@ namespace EventsDemo
     {
         static void Main(string[] args)
         {
+            var worker = new Worker();
         }
     }
 }
